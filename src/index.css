@@ -9,7 +9,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
   scroll-behavior:smooth;
-  color-scheme: only light;
+  color-scheme: light;
 }
 
 body{
