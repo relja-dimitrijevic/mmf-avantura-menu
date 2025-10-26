@@ -1,0 +1,125 @@
+{
+  "categories": [
+    {
+      "name": "Piva",
+      "backgroundImage": "/images/bg-piva.jpg",
+      "items": [
+        { "name": "Valjevsko Nefiltrirano Točeno 0.30", "price": 190 },
+        { "name": "Valjevsko Nefiltrirano Točeno 0.50", "price": 260 },
+        { "name": "Nikšićko Točeno 0.30", "price": 210 },
+        { "name": "Nikšićko Točeno 0.50", "price": 280 },
+        { "name": "Guliver IPA 0.30", "price": 270 },
+        { "name": "Guliver IPA 0.50", "price": 350 },
+        { "name": "Valjevsko 0.33", "price": 190 },
+        { "name": "Heineken 0.25", "price": 310 },
+        { "name": "Nikšićko Svetlo 0.33", "price": 240 },
+        { "name": "Nikšićko Tamno 0.33", "price": 280 },
+        { "name": "Bavaria 0.25", "price": 310 }
+      ]
+    },
+    {
+      "name": "Žestoka Pića",
+      "backgroundImage": "/images/bg-zestoka.jpg",
+      "items": [
+        { "name": "BB Kleka 0.03", "price": 210 },
+        { "name": "Vinjak 0.03", "price": 160 },
+        { "name": "Đurđević Šljiva 0.03", "price": 160 },
+        { "name": "Đurđević Požegača 0.03", "price": 270 },
+        { "name": "Đurđević Dunjo Moja 0.03", "price": 180 },
+        { "name": "Đurđević Kajsija 0.03", "price": 180 },
+        { "name": "Đurđević Viljamovka 0.03", "price": 180 },
+        { "name": "Đurđević Matica 0.03", "price": 180 },
+        { "name": "Four Roses 0.03", "price": 260 },
+        { "name": "Jack Daniel's 0.03", "price": 290 },
+        { "name": "Jameson 0.03", "price": 260 },
+        { "name": "Smirnoff Vodka 0.03", "price": 210 },
+        { "name": "Sierra Silver Tequilla 0.03", "price": 230 },
+        { "name": "Beefeater Gin 0.03", "price": 210 },
+        { "name": "Old Pascas White Rum 0.03", "price": 180 },
+        { "name": "Jägermeister 0.03", "price": 230 },
+        { "name": "Gorki List 0.03", "price": 190 }
+      ]
+    },
+    {
+      "name": "Vina",
+      "backgroundImage": "/images/bg-vina.jpg",
+      "items": [
+        { "name": "Gradina Belo 0.15", "price": 180 },
+        { "name": "Gradina Crno 0.15", "price": 180 },
+        { "name": "Gradina Roze 0.15", "price": 180 },
+        { "name": "Kuvano Vino 0.20", "price": 220 }
+      ]
+    },
+    {
+      "name": "Gazirana Pića",
+      "backgroundImage": "/images/bg-gazirana.jpg",
+      "items": [
+        { "name": "Knjaz Miloš 0.25", "price": 140 },
+        { "name": "Knjaz Miloš (Sa Ukusom) 0.25", "price": 150 },
+        { "name": "Evervess Tonic Water 0.25", "price": 150 },
+        { "name": "Cocta 0.28", "price": 210 },
+        { "name": "Pepsi 0.25", "price": 210 },
+        { "name": "Pepsi Max 0.25", "price": 210 },
+        { "name": "Evervess Bitter 0.25", "price": 210 },
+        { "name": "Mirinda 0.25", "price": 210 },
+        { "name": "7UP 0.25", "price": 210 },
+        { "name": "Ivi Breskva 0.33", "price": 210 },
+        { "name": "Knjaz Miloš Remix 0.33", "price": 210 },
+        { "name": "Guarana 0.25", "price": 220 },
+        { "name": "Red Bull 0.25", "price": 350 }
+      ]
+    },
+    {
+      "name": "Negazirana Pića",
+      "backgroundImage": "/images/bg-negazirana.jpg",
+      "items": [
+        { "name": "Homemade Ice Tea 0.20", "price": 260 },
+        { "name": "Ceđena Pomorandža 0.30", "price": 280 },
+        { "name": "Limunada 0.30", "price": 190 },
+        { "name": "Ceđeni Mix 0.30", "price": 320 },
+        { "name": "Gusto Sokovi 0.20", "price": 210 },
+        { "name": "Cedevita 0.20", "price": 190 },
+        { "name": "Aqua Viva 0.25", "price": 130 }
+      ]
+    },
+    {
+      "name": "Frape",
+      "backgroundImage": "/images/bg-frape.jpg",
+      "items": [
+        { "name": "Frape Malina", "price": 410 },
+        { "name": "Frape Jagoda", "price": 320 },
+        { "name": "Plazma Shake", "price": 350 }
+      ]
+    },
+    {
+      "name": "Topli Napici",
+      "backgroundImage": "/images/bg-topli.jpg",
+      "items": [
+        { "name": "Topla Čokolada 0.20", "price": 310 },
+        { "name": "Domaća Kafa 0.10", "price": 130 },
+        { "name": "Espresso 0.10", "price": 150 },
+        { "name": "Espresso Sa Mlekom 0.10", "price": 170 },
+        { "name": "Espresso Sa Šlagom 0.10", "price": 200 },
+        { "name": "Cappuccino 0.10", "price": 200 },
+        { "name": "Caffe Latte 0.20", "price": 240 },
+        { "name": "Macchiato 0.10", "price": 180 },
+        { "name": "Nescaffe 0.20", "price": 210 },
+        { "name": "Nescaffe Sa Šlagom 0.20", "price": 230 },
+        { "name": "Iced Coffee 0.20", "price": 260 },
+        { "name": "Čaj Dolcezza 0.20", "price": 170 },
+        { "name": "Aroma Lešnik/Karamela", "price": 70 }
+      ]
+    },
+    {
+      "name": "Prirodni Sokovi",
+      "backgroundImage": "/images/bg-sokovi.jpg",
+      "items": [
+        { "name": "Jabuka 100% 0.20", "price": 190 },
+        { "name": "EtNo.1 Crna Ribizla 0.20", "price": 270 },
+        { "name": "EtNo.1 Malina 0.20", "price": 360 },
+        { "name": "EtNo.1 Jagoda 0.20", "price": 270 },
+        { "name": "EtNo.1 Kupina 0.20", "price": 270 }
+      ]
+    }
+  ]
+}
