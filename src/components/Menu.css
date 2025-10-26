@@ -74,6 +74,14 @@
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
+  .menu {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  max-width: 50%;
+  min-height: 100vh;
+  }
+
   .category-header {
     font-size: 1.4rem;
   }
