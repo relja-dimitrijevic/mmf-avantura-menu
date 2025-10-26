@@ -76,7 +76,7 @@
 @media (max-width: 768px) {
   .menu {
   position: relative;
-  display: grid;
+  display: flex;
   flex-direction: row;
   max-width: 50%;
   min-height: 100vh;
