@@ -26,6 +26,7 @@
   height: 3px;
   background-color: white;
   transition: all 0.3s ease;
+  will-change: transform, opacity;
 }
 
 .burger-line.open:nth-child(1) {
@@ -34,6 +35,7 @@
 
 .burger-line.open:nth-child(2) {
   opacity: 0;
+  transform: translateZ(0); /* forces Safari to repaint */
 }
 
 .burger-line.open:nth-child(3) {
