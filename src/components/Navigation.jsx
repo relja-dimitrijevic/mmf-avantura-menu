@@ -37,7 +37,7 @@ function Navigation({ allCategories = [], selectedFilters = [], onFilterChange }
 
       {isMenuOpen && (
         <div className="nav-dropdown" role="menu">
-          <div className="nav-actions">
+          {/* <div className="nav-actions">
             <button
               onClick={() => {
                 alert('Open Galerija (Gallery)');
@@ -55,7 +55,7 @@ function Navigation({ allCategories = [], selectedFilters = [], onFilterChange }
             >
               Newsletter
             </button>
-          </div>
+          </div> */}
 
           <div className="nav-filters">
             {!Array.isArray(allCategories) || allCategories.length === 0 ? (

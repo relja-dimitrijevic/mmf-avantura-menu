@@ -1,6 +1,6 @@
 .app {
   min-height: 100vh;
-  background-image: url("/images/bg-index.jpg");
+  background-image: url("/images/bg-menu.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -17,4 +17,6 @@
 .blur{
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: brightness(50%);
+  -webkit-backdrop-filter: brightness(50%);
 }

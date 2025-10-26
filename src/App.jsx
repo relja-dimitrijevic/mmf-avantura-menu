@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import Hero from './components/Hero.jsx';
 import Navigation from './components/Navigation.jsx';
 import Menu from './components/Menu.jsx';
 import './App.css';
@@ -59,7 +58,6 @@ function App() {
   return (
     <div className="app">
       <div className='blur'>
-        <Hero />
         <Navigation
           allCategories={menuData || []}
           selectedFilters={selectedFilters}
