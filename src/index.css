@@ -9,7 +9,6 @@ html {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
   scroll-behavior:smooth;
-  color-scheme: light;
 }
 
 body{
@@ -22,5 +21,6 @@ body{
 
 :root{
   --menu-text: #2d1d16;
+  color-scheme: light;
 }
 
