@@ -19,7 +19,7 @@
     },
     {
       "name": "Žestoka Pića",
-      "backgroundImage": "/images/bg-zestoka.jpg",
+      "backgroundImage": "/images/bg-piva.jpg",
       "items": [
         { "name": "BB Kleka 0.03", "price": 210 },
         { "name": "Vinjak 0.03", "price": 160 },
@@ -42,7 +42,7 @@
     },
     {
       "name": "Vina",
-      "backgroundImage": "/images/bg-vina.jpg",
+      "backgroundImage": "/images/bg-piva.jpg",
       "items": [
         { "name": "Gradina Belo 0.15", "price": 180 },
         { "name": "Gradina Crno 0.15", "price": 180 },
@@ -52,7 +52,7 @@
     },
     {
       "name": "Gazirana Pića",
-      "backgroundImage": "/images/bg-gazirana.jpg",
+      "backgroundImage": "/images/bg-piva.jpg",
       "items": [
         { "name": "Knjaz Miloš 0.25", "price": 140 },
         { "name": "Knjaz Miloš (Sa Ukusom) 0.25", "price": 150 },
@@ -71,7 +71,7 @@
     },
     {
       "name": "Negazirana Pića",
-      "backgroundImage": "/images/bg-negazirana.jpg",
+      "backgroundImage": "/images/bg-piva.jpg",
       "items": [
         { "name": "Homemade Ice Tea 0.20", "price": 260 },
         { "name": "Ceđena Pomorandža 0.30", "price": 280 },
@@ -84,7 +84,7 @@
     },
     {
       "name": "Frape",
-      "backgroundImage": "/images/bg-frape.jpg",
+      "backgroundImage": "/images/bg-piva.jpg",
       "items": [
         { "name": "Frape Malina", "price": 410 },
         { "name": "Frape Jagoda", "price": 320 },
@@ -93,7 +93,7 @@
     },
     {
       "name": "Topli Napici",
-      "backgroundImage": "/images/bg-topli.jpg",
+      "backgroundImage": "/images/bg-piva.jpg",
       "items": [
         { "name": "Topla Čokolada 0.20", "price": 310 },
         { "name": "Domaća Kafa 0.10", "price": 130 },
@@ -112,7 +112,7 @@
     },
     {
       "name": "Prirodni Sokovi",
-      "backgroundImage": "/images/bg-sokovi.jpg",
+      "backgroundImage": "/images/bg-piva.jpg",
       "items": [
         { "name": "Jabuka 100% 0.20", "price": 190 },
         { "name": "EtNo.1 Crna Ribizla 0.20", "price": 270 },

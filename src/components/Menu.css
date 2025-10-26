@@ -6,6 +6,11 @@
   min-height: 100vh;
 }
 
+.menu-content{
+  padding: 0.5rem;
+  backdrop-filter: opacity(0.5);
+}
+
 .category-section {
   position: relative;
   min-height: 280px;
