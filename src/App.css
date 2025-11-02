@@ -7,14 +7,24 @@
   background-attachment: fixed;
   position: relative;
   z-index: 0;
+  isolation: isolate; /* prevents backdrop layering bugs */
 }
 
-.hero, .menu {
+.hero,
+.menu {
   position: relative;
   z-index: 1;
 }
 
-.blur{
-  backdrop-filter: blur(2px) brightness(0.5);
+.blur {
   -webkit-backdrop-filter: blur(2px) brightness(0.5);
+  backdrop-filter: blur(2px) brightness(0.5);
+  background-color: rgba(0, 0, 0, 0.4); /* fallback */
+}
+
+/* Safari fix for backdrop filter stacking issues */
+@supports not (backdrop-filter: blur(2px)) {
+  .blur {
+    background-color: rgba(0, 0, 0, 0.6);
+  }
 }

@@ -1,14 +1,20 @@
 .menu {
   position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
   display: flex;
   flex-direction: column;
   min-width: 100%;
   min-height: 100vh;
+  height: auto;
+  height: 100%;
 }
 
-.menu-content{
+.menu-content {
   padding: 0.5rem;
+  -webkit-backdrop-filter: opacity(0.5);
   backdrop-filter: opacity(0.5);
+  background-color: rgba(0, 0, 0, 0.05); /* fallback */
 }
 
 .category-section {
@@ -80,15 +86,11 @@
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto;
     gap: 1rem;
-  }
 
-  .category-bg {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: auto;
-  height: auto;
+    /* Fallback if grid fails */
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
   }
 
   .category-header {
