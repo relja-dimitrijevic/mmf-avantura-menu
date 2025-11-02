@@ -13,9 +13,6 @@
     rgba(0, 0, 0, 0.7) 0%,
     rgba(0, 0, 0, 0) 100%
   );
-
-  /* Fallback for browsers that don’t support it */
-  background-color: rgba(0, 0, 0, 0.6);
 }
 
 .nav-logo img {
