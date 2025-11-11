@@ -58,13 +58,11 @@ function App() {
   return (
     <div className="app">
       <div className='blur'>
-        <div className='navbar-wrapper'>
-          <Navigation
-            allCategories={menuData || []}
-            selectedFilters={selectedFilters}
-            onFilterChange={handleFilterChange}
-          />
-        </div>
+        <Navigation
+          allCategories={menuData || []}
+          selectedFilters={selectedFilters}
+          onFilterChange={handleFilterChange}
+        />
         <Menu
           categories={filteredCategories}
           loading={loading}
