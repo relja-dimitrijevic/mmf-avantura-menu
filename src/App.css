@@ -22,3 +22,9 @@
     background-color: rgba(0, 0, 0, 0.6);
   }
 }
+
+.navbar-wrapper{
+  position: sticky;
+  width: 100%;
+  height: min-content;
+}
